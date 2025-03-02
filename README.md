@@ -2,9 +2,11 @@
 
 **Software Engineer👨‍💻**
 
-Mobile Apps 📱 | SwiftUI & Flutter
+Mobile Apps 📱 | SwiftUI/Flutter
 
-Web Development 🖥️ | TypeScript & TailwindCSS
+Web Development 🖥️ | TypeScript/PHP
+
+Useful Stuff 🥷 | Python/Bash
 
 Born in 🇮🇨
 
