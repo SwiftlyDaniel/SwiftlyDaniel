@@ -11,3 +11,5 @@ Useful Stuff 🥷 | Python/Bash
 Born in 🇮🇨
 
 Based in 🇩🇪
+
+[𝔇𝔞𝔫𝔦](https://bento.me/swiftlydaniel)
