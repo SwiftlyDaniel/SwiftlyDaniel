@@ -12,6 +12,6 @@ Born in 🇮🇨
 
 Based in 🇩🇪
 
-[𝔇𝔞𝔫𝔦](https://bento.me/swiftlydaniel)
+[Bento](https://bento.me/swiftlydaniel)
 
-Site: https://swiftlydaniel.vercel.app/
+[Site](https://swiftlydaniel.vercel.app)
